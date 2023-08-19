@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0PX;
+    background-color: gray;
+    color: white;
+    
+}
+body{
+    padding: 20px;
+}
+input{
+    border: 1px solid white;
+    border-radius: 3px;
+    width: 25%;
+    padding: 5px;
+    margin-block: 7px;
+    cursor: pointer;
+}
+::placeholder{
+    color: white;
+}
+.div11{
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    gap: 5%;
+}
+.div12{
+    display: flex;
+    justify-content: start;
+    gap: 5%;
+    flex-wrap: wrap;
+}
+button{
+    padding: 5px;
+    margin-block:8px;
+    width: 40%;
+    border: none;
+    border-radius: 3px;
+    background-color: white;
+    color: gray;
+}
+#search{
+    width:88%;
+    margin-block: 30px;
+}
+table{
+    width: 89%;
+    border-collapse: collapse;
+    justify-content: center;
+}
+td{
+    padding: 5px;
+    border: 1px solid white;
+    color: white;
+}
+.degree{
+    display: flex;
+    justify-content: space-between;
+}
+.dg2{
+    display: flex;
+    gap: 20px;
+}
+
+
+
+
+
+
