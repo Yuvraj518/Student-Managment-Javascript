@@ -40,6 +40,9 @@ button{
     background-color: white;
     color: gray;
 }
+#btn1{
+    display: none;
+}
 #search{
     width:88%;
     margin-block: 30px;
